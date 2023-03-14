@@ -1,4 +1,4 @@
-# 아래와 같은것들으 공부하고 있습니다.
+# 다음을 공부하고 있습니다.
 
 ### 📖 Anomaly Detectioin
 ### 📖 Recommendation System

@@ -2,5 +2,4 @@
 
 ### 📖 Graph Neural Network
 ### 📖 Time Series Forecasting
-### 📖 Anomaly Detectioin
-### 📖 Recommendation System
+### 📖 Anomaly Detection

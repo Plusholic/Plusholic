@@ -1,4 +1,4 @@
-# 다음을 공부하고 있습니다.
+# Interested in following topic
 
 ### 📖 Graph Neural Network
 ### 📖 Time Series Forecasting
